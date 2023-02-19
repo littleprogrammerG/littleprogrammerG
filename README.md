@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @literallyPurple or Garrett and I am in HighSchool.
+- 👋 Hi, I’m Garrett and I am in HighSchool.
 - 👀 I’m interested in Coding and Video Games!
 - 🌱 I’m currently learning Java(For fun).
-- 📫 You can reach me @literallyPurple#0956 on Discord!
+- 📫 You can reach me Garrett#8819 on Discord!
