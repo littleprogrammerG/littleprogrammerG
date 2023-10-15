@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Garrett and I am in HighSchool.
 - 👀 I’m interested in Coding and Video Games!
-- 🌱 I’m currently learning Java(For fun).
-- 📫 You can reach me Garrett#8819 on Discord!
+- 🌱 I’m currently learning Java(For fun)
