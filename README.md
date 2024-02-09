@@ -3,7 +3,6 @@
 🧠 I’m learning HTML, CSS, and JavaScript for school and Java in my free time.
 \
 \
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=littleprogrammerG&theme=dark&show_icons=true)\
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=littleprogrammerG&layout=pie&theme=dark)
 
 ## My Website:
