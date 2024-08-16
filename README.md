@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Garrett, a junior in high school.
+# 👋 Hi, I’m Garrett, a senior in high school.
 👀 I’m interested in Coding and 3D animation/modeling.\
 🧠 I’m learning HTML, CSS, and JavaScript for school and Java in my free time.
 \
