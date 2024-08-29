@@ -3,6 +3,9 @@
 🧠 I’m learning HTML, CSS, and JavaScript for school and Java in my free time.
 \
 \
+[I'm still learning, so please send me feedback!](mailto:garrett@littleprogrammer.dev)
+\
+\
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=littleprogrammerG&layout=pie&theme=dark)
 
 ## My Website:
