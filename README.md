@@ -10,10 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer interested in  game dev
 ## 🔧 Technologies & Tools
 - **Languages**: C++, Java, JavaScript, Kotlin
 
-## 📫 Let's Connect!
-- **Website**: [littleprogrammer.dev](https://www.littleprogrammer.dev/) – A modern, minimalist portfolio showcasing my work.
-- **Email**: garrettcox@littleprogrammer.dev
-
 ## 🧠 Recent Focus
 Lately, I’ve been diving into:
 - 🌌 Creating a game engine from scratch in **C++**.
